@@ -3,11 +3,9 @@
     }
     
     body {
-    font-family: poppins;
     margin: 0;
     display: grid;
     font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
     }
     
     header p {
@@ -92,7 +90,7 @@
     #container-info{
         position: absolute;
         left: 352px;
-        top: 526px;
+        top: 545px;
         width: 736px;
         height: 140px;
         background-color: #ffffff;
@@ -172,8 +170,8 @@
 
     .illustrasi2 img {
         position: absolute;
-        padding-right: 90px;
-        top: 136px;
+        right: 5px;
+        top: 100px;
     }
     
     .illustrasi3 img {
@@ -182,10 +180,8 @@
         left: 425px;
         top: 567px;
     }    
-    
 
-    .content-down{
-    font-family: Quicksand;
+    #content-down{
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
